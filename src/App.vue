@@ -9,7 +9,7 @@ import Cards from "./components/Cards.vue";
 
 <template>
   <Header />
-  <navbar />
+  <Navbar />
   <Content />
   <List />
   <Cards />
