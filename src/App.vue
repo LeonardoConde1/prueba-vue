@@ -1,4 +1,4 @@
-<script setup>
+<script >
 import Header from "./components/Header.vue";
 import Navbar from "./components/Navbar.vue";
 import Content from "./components/Content.vue";
@@ -13,5 +13,4 @@ import Cards from "./components/Cards.vue";
   <Content />
   <List />
   <Cards />
- 
 </template>
