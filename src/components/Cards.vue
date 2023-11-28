@@ -62,7 +62,7 @@ margin-top: 35px;
 margin-left: 15%;
 background-color: #F1F2F4;
 width: 90%;
-border-radius: 10px;
+border-radius: 9px;
 }
 
 .text{
