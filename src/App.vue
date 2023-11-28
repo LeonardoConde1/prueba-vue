@@ -1,8 +1,8 @@
-<script >
+<script setup >
 import Header from "./components/Header.vue";
 import Navbar from "./components/Navbar.vue";
 import Content from "./components/Content.vue";
-import list from "./components/list.vue";
+import List from "./components/list.vue";
 import Cards from "./components/Cards.vue";
 
 </script>
@@ -11,6 +11,6 @@ import Cards from "./components/Cards.vue";
   <Header />
   <Navbar />
   <Content />
-  <list />
+  <List />
   <Cards />
 </template>
